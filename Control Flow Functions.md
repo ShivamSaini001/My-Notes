@@ -1,0 +1,6 @@
+
+MySQL IF()
+MySQL IFNULL()
+MySQL NULLIF()
+MySQL CASE
+MySQL IF Statement
